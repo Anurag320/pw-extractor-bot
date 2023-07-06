@@ -9,7 +9,7 @@ beautifulsoup4==4.9.3
 bs4==0.0.1
 aiohttp
 aiofiles
-yt-dlp==2021.7.24
+yt-dlp==2023.2.17
 pycryptodome==3.10.1
 PySocks==1.7.1
 websockets==9.1
